@@ -43,7 +43,7 @@ body {
 a, .linkbox a, .permission_container a,
     .forum_index a, .forum_list a, #search_button, 
     #request_table a, .cat_list a, .tags a, .head a, .colhead_dark a {
-    color: #005689;
+    color: #000000;
     text-decoration: none;
 }
 
@@ -52,7 +52,7 @@ a:visited, .linkbox a:visited, .permission_container a:visited,
     #request_table a:visited, .cat_list a:visited, .tags a:visited,
     .head a:visited, .colhead_dark a:visited {
     /* color: #333; -- if visited link is the same as normal link you cannot tell a link apart from normal text... */
-     /* color: #005689; /* same as a non visited link if all links should look the same visited or not */
+     /* color: #000000; /* same as a non visited link if all links should look the same visited or not */
     color: #004161; /* a darker blue if you want to tell them apart */
 }
 
@@ -671,7 +671,7 @@ li.searchbars {
 }
 
 span.user_name a { 
-    color: #005689;
+    color: #000000;
     font-weight: bold;
 }
 
@@ -1257,7 +1257,7 @@ input.shopbutton.itembuy:hover {
 }
 
 .colhead a {
-    color: #005689;
+    color: #000000;
 }
 
 .colhead a:hover {
@@ -2071,7 +2071,7 @@ a.bb_button:hover {
 }
 
 .bb_help {
-    color: #005689;
+    color: #000000;
     font-weight: bold;
     padding: 2px 8px;
 }
