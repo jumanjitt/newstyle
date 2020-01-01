@@ -1074,9 +1074,9 @@ table.boxstat td:first-child {
         border-right: 1px solid #c7c7c7 !important;
 
         background: #f8f8f8; /* old browsers */
-	background: -moz-linear-gradient(top, #FFFFFF 0%, #F5F5F5 80%, #e9e9e9 100%); /* firefox */
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#FFFFFF), color-stop(80%,#F5F5F5), color-stop(100%,#e9e9e9)); /* webkit */
-	background-image: -o-linear-gradient(top, rgb(255,255,255) 0%, rgb(245,245,245) 80%, rgb(233,233,233) 100%); /* opera */
+	background: -moz-linear-gradient(top, #000000 0%, #000000 80%, #000000 100%); /* firefox */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#000000), color-stop(80%,#000000), color-stop(100%,#000000)); /* webkit */
+	background-image: -o-linear-gradient(top, rgb(0,0,0) 0%, rgb(0,0,0) 80%, rgb(0,0,0) 100%); /* opera */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#303134', endColorstr='#303134' ); /* ie */
 
 	-moz-box-shadow:inset 0px 0px 3px #fff;
