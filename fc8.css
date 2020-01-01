@@ -147,7 +147,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
     width: 100%;
     min-width:1000px; 
     padding: 0;
-    background-color: #0074b7;
+    background-color: #000000;
     background: -moz-linear-gradient(top, #0074b7 0%, #2c5687 100%); /* firefox */
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#0074b7), color-stop(100%,#2c5687)); /* webkit */
     background-image: -o-linear-gradient(top, rgb(0,116,183) 0%, rgb(44,86,135) 100%); /* opera */
