@@ -247,12 +247,10 @@ ul.thin li { margin:0px 0px; padding:0px; }
 }
 
 #menu a:hover {
-    background-color: white;
-    color: #005689;
-    text-decoration: none;
-    border-radius:5px;
-    -moz-border-radius: 5px; /* for FF5 */
-    -webkit-border-radius: 5px; /* for opera */     
+  background:hsla(0,0%,39%,.08);
+ -webkit-box-shadow:0 0 5px 2px rgba(0,0,0,.1);
+	box-shadow:0 0 5px 2px rgba(0,0,0,.1);
+	color:#ccc
 }
 
 span.infinity {
