@@ -1360,7 +1360,7 @@ ul.poll li.graph {
 .show_torrents {
     width: 28px;
     height: 28px;
-    background: url('https://cdn.rawgit.com/lapigr/whatnificent/master/show.png') no-repeat center center;
+    background: url('https://redacted.ch/static/styles/assets/backgrounds/Dark-down.svg') no-repeat center center;
 }
 
 .hide_torrents {
