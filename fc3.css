@@ -32,7 +32,7 @@ darker shade (very top of header):
 body {
     width: 100%;
     background: #1b6199;
-    background: url(images/background.png) repeat;
+    background: url('https://redacted.ch/static/styles/assets/backgrounds/Dark-down.svg') repeat;
     /* font: normal 11pt "Lucida Grande", Helvetica, Arial, Verdana, sans-serif; */
     font: normal 11pt "PT Sans", sans-serif;
     color: #333;
